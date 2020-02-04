@@ -1,5 +1,5 @@
 const hello = () => {
-    console.log('say hello world');
+    console.log('in branch master');
 };
 
 hello();
